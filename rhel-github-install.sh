@@ -1,4 +1,4 @@
-#! /bin/bash
+#!/bin/bash
 
 # The steps for this installation were copied from a github repository belonging to a github developer
 # The repository is linked here: https://github.com/shiftkey/desktop

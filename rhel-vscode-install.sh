@@ -1,4 +1,4 @@
-#! bin/bash
+#!/bin/bash
 
 rpm --import https://packages.microsoft.com/keys/microsoft.asc
 rpm --import https://packages.microsoft.com/yumrepos/vscode
